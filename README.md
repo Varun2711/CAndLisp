@@ -1,1 +1,1 @@
-Learning C by following this book: Build Your Own Lisp
+Learning C by following this book: <a href="https://buildyourownlisp.com/">Build Your Own Lisp</a>
